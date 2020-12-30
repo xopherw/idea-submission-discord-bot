@@ -1,6 +1,6 @@
 # Idea Submission Discord Bot
 
-This Discord Bot will generate embeded message when called and input is given.
+This Discord Bot will generate embedded message when called and input is given.
 
 I created this to help my Flutter coders server where we can submit our app idea with description to a channel and have every member vote on it
 
