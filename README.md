@@ -1,1 +1,13 @@
-# idea-submission-discord-bot
+# Idea Submission Discord Bot
+
+This Discord Bot will generate embeded message when called and input is given.
+
+I created this to help my Flutter coders server where we can submit our app idea with description to a channel and have every member vote on it
+
+To submit your App Idea and writing Descriptions using the bot command, you must do it command below:
+
+`$idea "my app idea" "This app will bring you fortune!"`
+
+The bot will return an embedded message, with username on it whoever called it, the message is shown below:
+
+ 
